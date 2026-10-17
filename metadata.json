@@ -1,0 +1,8 @@
+{
+  "name": "Remix Misteri Makmal Alpha: Kaedah Saintifik KSSM",
+  "description": "Permainan adventure sains Tingkatan 1 KSSM di mana pemain meneroka makmal misteri untuk menyelesaikan teka-teki langkah penyiasatan saintifik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
